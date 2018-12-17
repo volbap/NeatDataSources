@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Coldplay</string>
+	<key>title</key>
+	<string>A Head Full Of Dreams</string>
+	<key>year</key>
+	<integer>2015</integer>
+	<key>imageLink</key>
+	<string>https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Coldplay_-_A_Head_Full_of_Dreams.png/220px-Coldplay_-_A_Head_Full_of_Dreams.png</string>
+	<key>tracks</key>
+	<array>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>A Head Full Of Dreams</string>
+			<key>duration</key>
+			<integer>224</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>Birds</string>
+			<key>duration</key>
+			<integer>229</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay ft. Beyonce</string>
+			<key>title</key>
+			<string>Hymn For The Weekend</string>
+			<key>duration</key>
+			<integer>258</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>Everglow</string>
+			<key>duration</key>
+			<integer>283</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>Adventure Of A Lifetime</string>
+			<key>duration</key>
+			<integer>264</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay ft. Tove Lo</string>
+			<key>title</key>
+			<string>Fun</string>
+			<key>duration</key>
+			<integer>267</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>Kaleidoscope</string>
+			<key>duration</key>
+			<integer>111</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>Army Of One</string>
+			<key>duration</key>
+			<integer>376</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>Amazing Day</string>
+			<key>duration</key>
+			<integer>271</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>Colour Spectrum</string>
+			<key>duration</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>author</key>
+			<string>Coldplay</string>
+			<key>title</key>
+			<string>Up &amp; Up</string>
+			<key>duration</key>
+			<integer>405</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
