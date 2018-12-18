@@ -36,10 +36,10 @@ class AlbumViewController: UIViewController {
 
 extension AlbumViewController: UITableViewDataSource, UITableViewDelegate {
     
-    private enum Section: Int { case albumInfo, tracks, actions }
+    private enum Section: Int, CaseIterable { case albumInfo, tracks, actions }
     
     func numberOfSections(in tableView: UITableView) -> Int {
-        return 3 // Use Section.allCases() when available
+        return Section.allCases.count
     }
 
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
